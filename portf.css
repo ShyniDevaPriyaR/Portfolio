@@ -1,0 +1,54 @@
+*{
+    background-color:#292233;
+    color: white;
+    margin: 10px;
+}
+.nv{
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    position: relative;
+    left: 210px;
+
+}
+.nv,a{
+    text-decoration: none;
+}
+.nv1{
+    display: flex;
+    gap: 100px;
+}
+.phase1{
+    display: flex;
+   /* gap: 100px;*/
+}
+.phase2{
+    display: flex;
+    gap: 300px;
+}
+.phase1,.hi,img{
+    /* align-content: center; */
+    margin-right: 50px;
+    
+}
+
+.details{
+    display: inline;
+}
+button{
+    background-color: red;
+    cursor: pointer;
+}
+
+.phase1,.hi,img{
+    gap: 600px;
+}
+.content1{
+    align-content: center;
+}
+i{
+    border: 2px solid red;
+    border-radius: 200px;
+    padding: 3px;
+}
+
